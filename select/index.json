@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "言い訳 (Excuse) / *Luna feat.Hatsune Miku【New Album「COLOR*FULL2」2019.8.10】",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-15T14:27:31.803965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "言い訳",
+      "artist": "*Luna",
+      "has_synced": false,
+      "path": "select/01_言い訳_Luna.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "言い訳 (feat. 初音ミク)",
+      "artist": "*Luna",
+      "has_synced": false,
+      "path": "select/02_言い訳_(feat._初音ミク)_Luna.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1）生徒が俺の机で角オナしてるところを見てしまった（角オナ、言い訳、逃走）",
+      "artist": "一番乳搾り",
+      "has_synced": true,
+      "path": "select/03_1)生徒が俺の机で角オナしてるところを見てしまった(角オナ、言い訳、逃走)_一番乳搾り.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "06.【言い訳】今回はサービス…って言い訳して、中に出してもらいます",
+      "artist": "エモイ堂",
+      "has_synced": true,
+      "path": "select/04_06.【言い訳】今回はサービス...って言い訳して、中に出してもらいます_エモイ堂.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言い訳",
+      "artist": "*Luna",
+      "has_synced": false,
+      "path": "select/pl_01_言い訳_Luna.txt"
+    }
+  ]
+}
